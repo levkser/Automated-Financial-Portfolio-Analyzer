@@ -1,6 +1,6 @@
 # Automated Financial Portfolio Analyzer (VBA)
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](dashboard_preview.png)
 
 ---
 
